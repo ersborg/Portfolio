@@ -63,7 +63,7 @@ a:visited{
 	margin-top:0;
 	color:#555;
 	float:left;
-	border-bottom: 1px dotted #000;
+	border-bottom: 1px solid #000;
 	width: 100%;
 }
 
